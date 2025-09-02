@@ -1,0 +1,170 @@
+{
+  "Subject": "Chemistry",
+  "Chapters": [
+    {
+      "Chapter": "Some Basic Concepts in Chemistry",
+      "Subtopics": [
+        "Matter and its Nature",
+        "Dalton’s atomic theory, Concept of atom, molecule, element and compound.",
+        "Laws of chemical combination, Atomic and molecular masses, mole concept, molar mass, percentage composition, empirical and molecular formulae",
+        "Chemical equations and stoichiometry"
+      ]
+    },
+    {
+      "Chapter": "Atomic Structure",
+      "Subtopics": [
+        "Nature of electromagnetic radiation, photoelectric effect, spectrum of the hydrogen atom, Bohr model of a hydrogen atom its postulates, derivation of the relations for the energy of the electron and radii of the different orbits, limitations of Bohr's model.",
+        "Dual nature of matter, de Broglie's relationship, Heisenberg uncertainty principle, elementary ideas of quantum mechanics, the quantum mechanical model of the atom and its important features.",
+        "Concept of atomic orbitals as one electron wave functions, variation of with r for 1s and 2s orbitals, various quantum numbers (principal), angular momentum and magnetic quantum numbers and their significance, shapes of s, p and d - orbitals, electron spin and spin quantum number.",
+        "Rules for filling electrons in orbitals Aufbau principle, Pauli's exclusion principle and Hund's rule, electronic configuration of elements and extra stability of half-filled and completely filled orbitals."
+      ]
+    },
+    {
+      "Chapter": "Chemical Bonding and Molecular Structure",
+      "Subtopics": [
+        "Kossel-Lewis approach to chemical bond formation, the concept of ionic and covalent bonds.",
+        "Ionic Bonding: Formation of ionic bonds, factors affecting the formation of ionic bonds; calculation of lattice enthalpy",
+        "Covalent Bonding: Concept of electronegativity, Fajan’s rule, dipole moment, Valence Shell Electron Pair Repulsion (VSEPR) theory and shapes of simple molecules.",
+        "Quantum mechanical approach to covalent bonding: Valence bond theory - its important features, the concept of hybridization involving s, p and d orbitals, resonance",
+        "Molecular Orbital Theory - Its important features, LCAOs, types of molecular orbitals bonding, antibonding, sigma and pi-bonds, molecular orbital electronic configurations of homonuclear diatomic molecules, the concept of bond order, bond length and bond energy, Elementary idea of metallic bonding, hydrogen bonding and its applications."
+      ]
+    },
+    {
+      "Chapter": "Chemical Thermodynamics",
+      "Subtopics": [
+        "Fundamentals of thermodynamics: System and surroundings, extensive and intensive properties, state functions, entropy, types of processes.",
+        "The first law of thermodynamics - Concept of work, heat, internal energy and enthalpy, heat capacity, molar heat capacity, Hess’s law of constant heat summation, Enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization and solution.",
+        "The second law of thermodynamics - Spontaneity of processes, the universe the system as criteria for spontaneity. Standard Gibbs energy change and equilibrium constant."
+      ]
+    },
+    {
+      "Chapter": "Solutions",
+      "Subtopics": [
+        "Different methods for expressing the concentration of solution - molality, molarity, mole fraction, percentage (by volume and mass both), the vapour pressure of solutions and Raoult's Law- Ideal and nonideal solutions.",
+        "Vapour pressure - composition, plots for ideal and non-ideal solutions, Colligative properties of dilute solutions - a relative lowering of vapour pressure, depression of freezing point, the elevation of boiling point and osmotic pressure.",
+        "Determination of molecular mass using colligative properties, abnormal value of molar mass, van’t Hoff factor and its significance."
+      ]
+    },
+    {
+      "Chapter": "Equilibrium",
+      "Subtopics": [
+        "Meaning of equilibrium is the concept of dynamic equilibrium.",
+        "Equilibria involving physical processes: Solid-liquid, liquid-gas, gas-gas and solid-gas equilibria, Henry's law. General characteristics of equilibrium involving physical processes.",
+        "Equilibrium involving chemical processes: Law of chemical equilibrium, equilibrium constants and their significance, the significance in chemical equilibrium, factors affecting equilibrium concentration, pressure, temperature, the effect of catalyst, Le Chatelier’s principle.",
+        "Ionic equilibrium: Weak and strong electrolytes, ionization of electrolytes, various concepts of acids and bases (Arrhenius, Bronsted - Lowry and Lewis) and their ionization, acid-base equilibria (including multistage ionization) and ionization constants, ionization of water, pH scale, common ion effect, hydrolysis of salts and pH of their solutions, the solubility of sparingly soluble salts, solubility products and buffer solutions"
+      ]
+    },
+    {
+      "Chapter": "Redox Reaction and ElectroChemistry",
+      "Subtopics": [
+        "Electronic concepts of oxidation and reduction, redox reactions, oxidation number, rules for assigning oxidation number and balancing of redox reactions.",
+        "Electrolytic and metallic conduction, conductance in electrolytic solutions, molar conductivities and their variation with concentration, Kohlrausch’s law and its applications.",
+        "Electrochemical cells - Electrolytic and Galvanic cells, different types of electrodes, electrode potentials including standard electrode potential, half-cell and cell reactions, emf of a Galvanic cell and its measurement, Nernst equation and its applications, relationship between cell potential and Gibbs' energy change, dry cell and lead accumulator, fuel cells"
+      ]
+    },
+    {
+      "Chapter": "Chemical Kinetics",
+      "Subtopics": [
+        "Rate of a chemical reaction, factors affecting the rate of reactions: concentration, temperature, pressure and catalyst, elementary and complex reactions, order and molecularity of reactions.\u00a0",
+        "Rate law, rate constant and its units, differential and integral forms of zero and first-order reactions, their characteristics and half-lives, the effect of temperature on the rate of reactions, Arrhenius theory, activation energy and its calculation, collision theory of bi-molecular gaseous reactions"
+      ]
+    },
+    {
+      "Chapter": "Classification of Elements and Periodicity in Properties",
+      "Subtopics": [
+        "Modern periodic law and present form of the periodic table, s, p, d and f block elements, periodic trends in properties of elements atomic and ionic radii, ionization enthalpy, electron gain enthalpy, valence, oxidation states and chemical reactivity."
+      ]
+    },
+    {
+      "Chapter": "p-block Elements",
+      "Subtopics": [
+        "Group 13 to Group 18 Elements",
+        "General Introduction: Electronic configuration and general trends in physical and chemical properties of elements across the periods and down the groups, unique behaviour of the first element in each group."
+      ]
+    },
+    {
+      "Chapter": "d- and f- Block Elements",
+      "Subtopics": [
+        "Transition Elements - General introduction, electronic configuration, occurrence and characteristics, general trends in properties of the first-row transition elements - physical properties, ionization enthalpy, oxidation states, atomic radii, colour, catalytic behaviour, magnetic properties, complex formation, interstitial compounds, alloy formation, preparation, properties and uses of K2Cr2O7 and KMnO4.",
+        "Inner Transition Elements"
+      ]
+    },
+    {
+      "Chapter": "Coordination Compounds",
+      "Subtopics": [
+        "Introduction to coordination compounds. Werner's theory, ligands, coordination number, denticity, chelation, IUPAC nomenclature of mononuclear co-ordination compounds, isomerism.",
+        "Bonding: Valence bond approach and basic ideas of Crystal field theory, colour and magnetic properties, importance of coordination compounds (in qualitative analysis, extraction of metals and in biological systems)"
+      ]
+    },
+    {
+      "Chapter": "Purification and Characterisation of Organic Compounds",
+      "Subtopics": [
+        "Purification - Crystallization, sublimation, distillation, differential extraction and chromatography principles and their applications",
+        "Qualitative analysis - Detection of nitrogen, sulphur, phosphorus and halogens",
+        "Quantitative analysis (basic principles only) - Estimation of carbon, hydrogen, nitrogen, halogens, sulphur and phosphorus",
+        "Calculations of empirical formulae and molecular formulae, numerical problems in organic quantitative analysis"
+      ]
+    },
+    {
+      "Chapter": "Some Basic Principles of Organic Chemistry",
+      "Subtopics": [
+        "Tetravalency of carbon, shapes of simple molecules - hybridization (s and p): classification of organic compounds based on functional groups and those containing halogens, oxygen, nitrogen and sulphur, homologous series: Isomerism - structural and stereoisomerism.",
+        "Nomenclature (Trivial and IUPAC): Covalent bond fission - Homolytic and heterolytic, free radicals, carbocations and carbanions, stability of carbocations and free radicals, electrophiles and nucleophiles",
+        "Electronic displacement in a covalent bond - Inductive effect, electromeric effect, resonance and hyperconjugation",
+        "Common types of organic reactions - - Substitution, addition, elimination and rearrangement"
+      ]
+    },
+    {
+      "Chapter": "Hydrocarbons",
+      "Subtopics": [
+        "Classification, isomerism, IUPAC nomenclature, general methods of preparation, properties and reactions",
+        "Alkane Conformations: Sawhorse and Newman projections (of ethane), mechanism of halogenation of alkanes.",
+        "Alkenes - Geometrical isomerism, mechanism of electrophilic addition, addition of hydrogen, halogens, water, hydrogen halides (Markownikoffs and peroxide effect), Ozonolysis and polymerization, Alkynes - Acidic character, addition of hydrogen, halogens, water and hydrogen halides, polymerization",
+        "Aromatic hydrocarbons - Nomenclature, benzene - structure and aromaticity, mechanism of electrophilic substitution, halogenation, nitration",
+        "Friedel-Craft's alkylation and acylation, directive influence of the functional group in mono- substituted benzene"
+      ]
+    },
+    {
+      "Chapter": "Organic Compounds Containing Halogens",
+      "Subtopics": [
+        "General methods of preparation, properties and reactions, nature of C-X bond, mechanisms of substitution reactions.",
+        "Uses, environmental effects of chloroform, iodoform, freons and DDT"
+      ]
+    },
+    {
+      "Chapter": "Organic Compounds Containing Oxygen",
+      "Subtopics": [
+        "General methods of preparation, properties, reactions and uses.",
+        "Alcohols: Identification of primary, secondary and tertiary alcohols, mechanism of dehydration",
+        "Phenols - Acidic nature, electrophilic substitution reactions, halogenation, nitration and sulphonation, Reimer - Tiemann reaction.",
+        "Ethers: Structure,Aldehyde and Ketones - Nature of carbonyl group, nucleophilic addition to >C=Ogroup, relative reactivities of aldehydes and ketones, important reactions such as - Nucleophilic addition reactions(addition of HCN, NH3 and its derivatives), Grignard reagent, oxidation, reduction (Wolf Kishner and Clemmensen), the acidity of -hydrogen. Aldol condensation, Cannizzaro reaction, Haloformreaction, chemical tests to distinguish between aldehydes and ketones",
+        "Carboxylic Acids - Acidic strength and factors affecting it."
+      ]
+    },
+    {
+      "Chapter": "Organic Compounds Containing Nitrogen",
+      "Subtopics": [
+        "General methods of preparation. Properties, reactions, and uses.",
+        "Amines: Nomenclature, classification structure, basic character, and identification of primary, secondary, and tertiary amines and their basic character.",
+        "Diazonium Salts: Importance in Synthetic Organic Chemistry."
+      ]
+    },
+    {
+      "Chapter": "Biomolecules",
+      "Subtopics": [
+        "General introduction and importance of biomolecules.",
+        "CARBOHYDRATES - Classification, aldoses and ketoses, monosaccharides (glucose and fructose) and constituent monosaccharides of oligosaccharides (sucrose, lactose and maltose)",
+        "VITAMINS - Classification and functions and PROTEINS - Elementary idea of -amino acids, peptide bond, polypeptides, proteins: primary, secondary, tertiary and quaternary structure (qualitative idea only), denaturation of proteins, enzymes",
+        "NUCLEIC ACIDS - Chemical constitution of DNA and RNA, Biological functions of nucleic acids"
+      ]
+    },
+    {
+      "Chapter": "Principles Related to Practical Chemistry",
+      "Subtopics": [
+        "Detection of extra elements (Nitrogen, sulphur, halogens) in organic compounds, detection of the following functional groups, hydroxyl (alcoholic and phenolic), carbonyl (aldehyde and ketones) carboxyl and amino groups in organic compounds.",
+        "The chemistry involved in the titrimetric exercises – acids, bases and the use of indicators, oxalic-acid vs KMnO4, Mohr’s salt vs KMnO4.",
+        "Chemical principles involved in the qualitative salt analysis"
+      ]
+    }
+  ]
+}

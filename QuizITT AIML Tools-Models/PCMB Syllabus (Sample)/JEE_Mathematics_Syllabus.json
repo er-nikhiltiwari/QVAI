@@ -1,0 +1,116 @@
+{
+  "Subject": "Mathematics",
+  "Chapters": [
+    {
+      "Chapter": "Sets, Relations and Functions",
+      "Subtopics": [
+        "Sets and their representation: Union, intersection",
+        "Complement of sets and their algebraic properties; Power set",
+        "Relation, Type of relations, equivalence relations",
+        "Functions: one-one, into and onto functions, the composition of functions"
+      ]
+    },
+    {
+      "Chapter": "Complex Numbers Quadratic Equations",
+      "Subtopics": [
+        "Complex numbers as ordered pairs of reals,",
+        "Representation of complex numbers in the form a + ib and their representation in a plane, Argand diagram",
+        "Algebra of complex number, modulus, and argument (or amplitude) of a complex number",
+        "Quadratic equations in real and complex number system and their solutions Relations between roots and coefficient",
+        "Nature of roots, the formation of quadratic equations with given roots"
+      ]
+    },
+    {
+      "Chapter": "Matrices And Determinants",
+      "Subtopics": [
+        "Matrices, Algebra of matrices, type of matrices",
+        "Determinants and matrices of order two and three, evaluation of determinants, area of triangles using determinants",
+        "Adjoint, and evaluation of inverse of a square matrix using determinants",
+        "Test of consistency and solution of simultaneous linear equations in two or three variables using matrices"
+      ]
+    },
+    {
+      "Chapter": "Permutations and Combinations",
+      "Subtopics": [
+        "The fundamental principle of counting",
+        "Permutation as an arrangement and combination as section",
+        "Meaning of P (n, r) and C (n, r), simple applications"
+      ]
+    },
+    {
+      "Chapter": "Binomial Theorem and Its Simple Applications",
+      "Subtopics": [
+        "Binomial theorem for a positive integral index",
+        "General term and middle term, and simple applications"
+      ]
+    },
+    {
+      "Chapter": "Sequence and Series",
+      "Subtopics": [
+        "Arithmetic and Geometric progressions",
+        "Insertion of arithmetic, geometric means between two given numbers",
+        "Relation between A.M and G.M"
+      ]
+    },
+    {
+      "Chapter": "Limit Continuity Differentiability",
+      "Subtopics": [
+        "Real–valued functions, algebra of functions, polynomials, rational, trigonometric, logarithmic, and exponential functions; Inverse function.",
+        "Graphs of simple functions. Limits, continuity, and differentiability. Differentiation of the sum, difference, product, and quotient of two functions.",
+        "Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite, and implicit functions; derivatives of order up to two.",
+        "Applications of derivatives: Rate of change of quantities, monotonic-Increasing and decreasing functions, Maxima, and minima of functions of one variable."
+      ]
+    },
+    {
+      "Chapter": "Integral Calculus",
+      "Subtopics": [
+        "Integral as an antiderivative, Fundamental integral involving algebraic, trigonometric, exponential, and logarithmic functions.",
+        "Integrations by substitution, by parts, and by partial functions. Integration using trigonometric identities.",
+        "Evaluation of simple integrals",
+        "The fundamental theorem of calculus, properties of definite integrals. Evaluation of definite integrals, determining areas of the regions bounded by simple curves in standard"
+      ]
+    },
+    {
+      "Chapter": "Differential Equations",
+      "Subtopics": [
+        "Ordinary differential equations, their order, and degree",
+        "The solution of differential equation by the method of separation of variables",
+        "Solution of a homogeneous and linear differential equation"
+      ]
+    },
+    {
+      "Chapter": "Co-Ordinate Geometry",
+      "Subtopics": [
+        "Cartesian system of rectangular coordinates in a plane, distance formula, sections formula, locus, and its equation, the slope of a line, parallel and perpendicular lines, intercepts of a line on the coordinate axis.",
+        "Straight line - Various forms of equations of a line, intersection of lines, angles between two lines, conditions for concurrence of three lines, the distance of a point form a line, Coordinate of the centroid, orthocentre, and circumcentre of a triangle.",
+        "Circle, Conic Sections - A standard form of equations of a circle, the general form of the equation of a circle, its radius and central, equation of a circle when the endpoints of a diameter are given, Points of intersection of a line and a circle with the centre at the origin and sections of conics, equations of conic sections (parabola, ellipse, and hyperbola) in standard forms"
+      ]
+    },
+    {
+      "Chapter": "Three Dimensional Geometry",
+      "Subtopics": [
+        "Coordinates of a point in space, the distance between two points, section formula, Directions ratios, and direction cosines, and the angle between two intersecting lines. Equation of a line, Skew lines, the shortest distance between them, and its equation."
+      ]
+    },
+    {
+      "Chapter": "Vector Algebra",
+      "Subtopics": [
+        "Vectors and scalars, the addition of vectors, components of a vector in two dimensions and three-dimensional space, Scalar, and vector products."
+      ]
+    },
+    {
+      "Chapter": "Statistics Probability",
+      "Subtopics": [
+        "Measures of dispersion; calculation of mean, median, mode of grouped and ungrouped data calculation of standard deviation, Variance, and mean deviation for grouped and ungrouped data.",
+        "Probability: Probability of an event, addition, and multiplication theorems of probability, Baye's theorem, probability distribution of a random variable."
+      ]
+    },
+    {
+      "Chapter": "Trigonometry",
+      "Subtopics": [
+        "Trigonometric identities and trigonometric functions",
+        "Inverse trigonometric functions, and their properties"
+      ]
+    }
+  ]
+}
